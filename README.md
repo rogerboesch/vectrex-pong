@@ -57,9 +57,9 @@ $VECTREC/cmoc -I$VECTREC/stdlib -L$VECTREC/stdlib --vectrex -o pong.bin src/tuto
 
 ## Video Tutorial
 
-Watch the full tutorial series on YouTube:
+Watch the full tutorial series on Substack:
 
-[Programming Games in C for the Vectrex](https://www.youtube.com/watch?v=m5Gxzj2xb2M&list=PLP6u_67PQGuHlz8J7U2Y6oUv05O_74D2w)
+[Programming Games in C for the Vectrex](https://vectrex.substack.com/p/re-releasing-my-original-vectrex)
 
 
 ## References
